@@ -20,8 +20,8 @@ jobs:
         run: |
           git config user.name Mimas
           git config user.email mimas@github.com
-          # git add .
-          # git commit -m "Modified feed"
-          # git push
+          git add .
+          git commit -m "Modified feed"
+          git push
         
         
